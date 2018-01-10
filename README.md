@@ -1,1 +1,1 @@
-jquery_contentSlider
+A simple jquery content slider.
